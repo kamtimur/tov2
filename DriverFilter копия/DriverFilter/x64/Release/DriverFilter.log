@@ -1,0 +1,43 @@
+﻿  Building 'DriverFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\DriverFilter.inf [Version] section with DriverVer=11/26/2018,21.43.44.559
+C:\Users\user\source\repos\DriverFilter\DriverFilter\DriverFilter.inf(71-71): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  DriverFilter.c
+DriverFilter.c(43): warning C4100: connectioncookie: неиспользованный формальный параметр
+DriverFilter.c(43): warning C4100: size: неиспользованный формальный параметр
+DriverFilter.c(43): warning C4100: context: неиспользованный формальный параметр
+DriverFilter.c(43): warning C4100: serverportcookie: неиспользованный формальный параметр
+DriverFilter.c(50): warning C4100: connectioncookie: неиспользованный формальный параметр
+DriverFilter.c(56): warning C4100: Flags: неиспользованный формальный параметр
+DriverFilter.c(65): warning C4100: RetLength: неиспользованный формальный параметр
+DriverFilter.c(65): warning C4100: OutputBufferLength: неиспользованный формальный параметр
+DriverFilter.c(65): warning C4100: InputBufferLength: неиспользованный формальный параметр
+DriverFilter.c(65): warning C4100: portcookie: неиспользованный формальный параметр
+DriverFilter.c(97): warning C4189: gHideFileName: локальная переменная инициализирована, но не использована
+DriverFilter.c(711): warning C4100: Flags: неиспользованный формальный параметр
+DriverFilter.c(711): warning C4100: CompletionContext: неиспользованный формальный параметр
+DriverFilter.c(711): warning C4100: FltObjects: неиспользованный формальный параметр
+DriverFilter.c(711): warning C4100: Data: неиспользованный формальный параметр
+DriverFilter.c(717): warning C4100: CompletionContext: неиспользованный формальный параметр
+DriverFilter.c(717): warning C4100: FltObjects: неиспользованный формальный параметр
+DriverFilter.c(721): warning C4189: Name: локальная переменная инициализирована, но не использована
+DriverFilter.c(743): warning C4100: CompletionContext: неиспользованный формальный параметр
+DriverFilter.c(743): warning C4100: FltObjects: неиспользованный формальный параметр
+DriverFilter.c(781): warning C4100: RegistryPath: неиспользованный формальный параметр
+  DriverFilter.vcxproj -> C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter\driverfilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter\driverfilter.cat
+  

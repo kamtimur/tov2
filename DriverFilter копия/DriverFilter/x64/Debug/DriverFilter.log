@@ -1,0 +1,33 @@
+﻿  Building 'DriverFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\DriverFilter.inf
+  Stamping [Version] section with DriverVer=05/17/2019,14.7.37.858
+C:\Users\t440s\Desktop\1 сем мага\DriverFilter копия\DriverFilter копия\DriverFilter\DriverFilter.inf(71-71): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  DriverFilter.c
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(55): warning C4100: 'Flags': unreferenced formal parameter
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(96): warning C4189: 'gHideFileName': local variable is initialized but not referenced
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(715): warning C4100: 'Flags': unreferenced formal parameter
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(715): warning C4100: 'CompletionContext': unreferenced formal parameter
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(715): warning C4100: 'FltObjects': unreferenced formal parameter
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(715): warning C4100: 'Data': unreferenced formal parameter
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(721): warning C4100: 'CompletionContext': unreferenced formal parameter
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(721): warning C4100: 'FltObjects': unreferenced formal parameter
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(725): warning C4189: 'Name': local variable is initialized but not referenced
+c:\users\t440s\desktop\1 сем мага\driverfilter копия\driverfilter копия\driverfilter\driverfilter.c(785): warning C4100: 'RegistryPath': unreferenced formal parameter
+  DriverFilter.vcxproj -> C:\Users\t440s\Desktop\1 сем мага\DriverFilter копия\DriverFilter копия\x64\Debug\DriverFilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\t440s\Desktop\1  \DriverFilter \DriverFilter \x64\Debug\DriverFilter.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\t440s\Desktop\1 сем мага\DriverFilter копия\DriverFilter копия\x64\Debug\DriverFilter\driverfilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\t440s\Desktop\1  \DriverFilter \DriverFilter \x64\Debug\DriverFilter\driverfilter.cat
+  
